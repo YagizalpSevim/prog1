@@ -24,7 +24,7 @@ while True:
         break
 
     sayi1 = int(input("Sayı 1: "))
-    sayi2 = int(input("Sayı2: "))
+    sayi2 = int(input("Sayı 2: "))
 
     if secim == 1:
          print(sayi1, "+",sayi2, "=", toplama(sayi1, sayi2))
