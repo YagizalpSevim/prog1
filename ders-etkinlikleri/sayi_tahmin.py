@@ -3,7 +3,7 @@ import random
 sayi = random.choice(range(1, 101))
 deneme = 0
 
-print("1 ile 100 arasında sayıyı tahmin edebilecek misin?")
+print("1 ile 100 arasında rastgele tutulan sayıyı tahmin edebilecek misin?")
 
 while True:
     tahmin = int(input("Tahminin: "))
